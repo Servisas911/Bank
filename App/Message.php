@@ -21,8 +21,9 @@ class Message
     {
         return $this->show ?? false;
     }
+    public function set($message, $type = 'success')
 
-    public function set($type = 'success', $message)
+   // public function set($type = 'success', $message)
     {
         $this->error = true;
 
