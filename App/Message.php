@@ -22,7 +22,7 @@ class Message
         return $this->show ?? false;
     }
 
-    public function set($type = 'succes', $message)
+    public function set($type = 'success', $message)
     {
         $this->error = true;
 

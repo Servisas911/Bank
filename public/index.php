@@ -1,5 +1,9 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+
+
 use Bank\App\App;
 use Bank\App\Message;
 use Bank\App\Auth;
