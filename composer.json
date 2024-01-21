@@ -1,5 +1,5 @@
 {
-    "name": "bank",
+    "name": "antanas/bank",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "Antanas",
+            "name": "antanas",
             "email": "antanas108@gmail.com"
         }
     ],
