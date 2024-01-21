@@ -1,0 +1,12 @@
+# Query: future
+
+3 results - 3 files
+
+public/main.js:
+  6608:     // In the future can be replaced with:
+
+views/nav.php:
+  6:                 <a class="navbar-brand" href="<?= URL ?>" style="font-family:fantasy; font-size:30px; margin-left: 50px;margin-right: 50px;"> Not Bank <i style="color:#ffda6a;" class="fa-solid fa-sack-dollar"></i></a>
+
+views/test.php:
+  5:         <h4>The mission of the Not Bank is to bring benefits to society. To accomplish this, we rely on highly-qualified employees,
