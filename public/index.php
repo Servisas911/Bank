@@ -13,7 +13,7 @@ session_start();
 require '../vendor/autoload.php';
 
 define('ROOT', __DIR__ . '/../'); //rodo kur faila sudeti
-define('URL', 'http://localhost/Bank/public/'); //rodo, koks adresiukas
+define('URL', 'http://localhost/Bank/public'); //rodo, koks adresiukas
 
 Message::get();
 Auth::get();
